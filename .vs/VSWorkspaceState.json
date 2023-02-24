@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BlackJack",
+    "\\BlackJack\\BlackJack"
   ],
+  "SelectedNode": "\\BlackJack\\BlackJack\\BlackJack.py",
   "PreviewInSolutionExplorer": false
 }
